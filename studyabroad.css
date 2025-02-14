@@ -191,7 +191,7 @@ h2 {
   text-align: center;
 }
 .full-screen {
-    background-color:#ff8000;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5TKxOgMfqQlHr9W3AUvp3H74jdOLSMpKXcw&s');
     width: 100vw; 
     height: 100vh; 
     display: flex;
