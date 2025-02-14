@@ -1,0 +1,242 @@
+.navbar-image
+{
+    height:50px;
+    width:50px;
+}
+.home-container
+{
+    margin:20px;
+    text-align: center;
+}
+.apply-now-heading
+{    
+    font-size: 50px;
+    font-weight: bold;
+    margin-top:20px;
+}
+.home-paragraph
+{
+    font-size: 25px;
+    color:	#ff8000;
+}
+.home-button
+{
+    height:40px;
+    width:140px;
+    color:white;
+    background-color:black;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    margin-top:30px;
+}
+.wcu-container
+{
+    text-align:center;
+    background-color:#ffebe6;
+    margin:20px;
+}
+.wcu-section-heading
+{   
+    margin:40px;
+    padding:10px;
+    font-weight:bold;
+}
+.wcu-section-card
+{
+    background-color:white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.why-study-aboard-card-heading
+{
+    color:	#ff8000;
+}
+.admission-container
+{  
+    background-color:#ffebe6;
+    background-size: cover;
+    text-align:center;
+    margin:20px;
+    padding:15px;
+}
+.admission-section-heading
+{
+    font-weight:bold;
+    margin:40px;
+}
+.admission-section-card 
+{
+    background-color:white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    height:20vh; 
+    margin:10px;
+    padding:15px;
+}
+.admission-section-card:hover 
+{
+    background-color:#ffebe6;
+}
+.admission-section-card-step
+{
+    font-size: 25px;
+    color:	#ff8000;
+
+}
+.feedback-main-container
+{
+    margin:5%;
+    text-align: center;
+   
+}
+.feedback-container-heading
+{
+    margin-bottom:30px;
+    font-weight:bold;
+}
+ .feedback-card-image
+{
+    height:120px;
+    width:120px;
+    border-radius:60px;
+}
+::-webkit-scrollbar
+{
+    height:8px;
+}
+::-webkit-scrollbar-track
+{
+    background:white;
+    border-radius:25px;
+}
+::-webkit-scrollbar-thumb
+{
+   background: :black;
+   border-radius:25px;
+}
+.feedback-container
+{
+    background-color:#ffebe6;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius:10px ;
+    padding:15px;  
+    display:flex;
+    scroll-snap-type: x mandatory;
+    overflow-x:scroll;
+    scroll-padding: 70px;
+    scroll-snap-align:start;
+}
+.feedback-container-card
+{
+    background-color:white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius:10px ;
+    padding:20px;
+    margin:20px;
+    display:flex;
+    flex:0 0 70%;
+}
+
+.feedback-container-description
+{
+    font-size:25px;
+    text-align: center;
+    margin:30px;
+    color: 	#ff8000;
+}
+.get-start-container
+{
+    margin-top:10%;
+    margin-right:10%;
+    margin-left:10%;
+    padding:30px;
+    background-color:#ffebe6;
+    text-align: center;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+}
+.btn-getstart
+{
+    background-color: black;
+    padding:15px;
+    color:white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.submit-form-container
+{
+    background-color:#ff8000;
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+h2 {
+  text-align: center;
+}
+.full-screen {
+    background-color:#ff8000;
+    width: 100vw; 
+    height: 100vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .form-container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 900px;
+    margin: 0 20px;
+  }
+  h2 {
+    text-align: center;
+  }
+  label {
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  button {
+    width: 100%;
+    padding: 12px;
+    background-color:black;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+
+  #message {
+    text-align: center;
+    font-weight: bold;
+  }
+  
